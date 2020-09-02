@@ -30,6 +30,11 @@
       "email": "dev@imaginacolombia.com"
     }
   ],
+  "support": {
+    "email": "dev@imaginacolombia.com",
+    "issues": "https://github.com/imagina/imaginacms-platform/issues",
+    "source": "https://github.com/imagina/imaginacms-itranslation"
+  },
   "extra": {
     "branch-alias": {
       "dev-master": "1.0.x-dev"
